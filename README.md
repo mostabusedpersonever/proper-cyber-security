@@ -17,3 +17,5 @@ Random:
 - If your eyes are modified, then looking at things will steal your data
 - Zero knowledge is not a good solution
 - Air-gapped systems don't work, you have to get data there somewhere which is intercepted
+- VPNs are hacked easily
+- Why use TOR brah it's hacked to infinity
